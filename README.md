@@ -1,6 +1,6 @@
 ## I'm Gabriel
 - I Live in Brazil, MG 🌱🤠
-- I have been studying React and Node on Rocketseat 🚀
+- I have been studying React and Node at Rocketseat 🚀
 
 ## Connect with me: <a href="https://www.linkedin.com/in/gabriel-gon%C3%A7alves-bb90281aa/" target="_blank">
   <img align="center" alt="Gabriel's LinkedIn" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
