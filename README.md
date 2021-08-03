@@ -1,4 +1,3 @@
-### Hello there!
 ## I'm Gabriel
 - I Live in Brazil, MG 🌱🤠
 - I have been studying React and Node on Rocketseat 🚀
