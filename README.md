@@ -1,3 +1,13 @@
+### Hello there!
+## I'm Gabriel
+- I Live in :brazil:, MG 🌱🤠
+- I have been studying React and Node on Rocketseat 🚀
+
+## Connect with me:
+<a href="https://www.linkedin.com/in/gabriel-gon%C3%A7alves-bb90281aa/" target="_blank">
+LinkedIn 
+</a>
+
 [![Drayerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=drayerr&hide=prs,issues,contribs&theme=radical&show_icons=true)](https://github.com/drayerr/github-readme-stats)
 
 <!--
