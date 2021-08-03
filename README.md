@@ -5,7 +5,7 @@
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/gabriel-gon%C3%A7alves-bb90281aa/" target="_blank">
-LinkedIn 
+  <img align="center" alt="Gabriel's LinkedIn" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" style="max-width:100%;">
 </a>
 
 [![Drayerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=drayerr&hide=prs,issues,contribs&theme=radical&show_icons=true)](https://github.com/drayerr/github-readme-stats)
