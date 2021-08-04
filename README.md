@@ -2,13 +2,18 @@
 - I Live in Brazil, MG 🌱🤠
 - I have been studying React and Node at Rocketseat 🚀
 
-## Connect with me: <a href="https://www.linkedin.com/in/gabriel-gon%C3%A7alves-bb90281aa/" target="_blank">
+<h2>Connect with me:</h2>
+<a href="https://www.linkedin.com/in/gabriel-gon%C3%A7alves-bb90281aa/" target="_blank">
   <img align="center" alt="Gabriel's LinkedIn" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 
 #
+<div>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=drayerr&hide=prs,issues,contribs&theme=radical&show_icons=true">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical">
+</div>
 
-[![Drayerr's GitHub stats](https://github-readme-stats.vercel.app/api?username=drayerr&hide=prs,issues,contribs&theme=radical&show_icons=true)](https://github.com/drayerr/github-readme-stats)
+![Snake animation](https://github.com/drayerr/drayerr/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **Drayerr/Drayerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
