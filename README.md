@@ -7,7 +7,7 @@
 
 ## About me:
 - I Live in Brazil, MG 🌱🤠
-- I have been studying React and Node at Rocketseat 🚀
+- I current studying React and Node at Rocketseat 🚀
 
 <p>
   Connect with me:
