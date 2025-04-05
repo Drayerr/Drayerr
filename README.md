@@ -2,8 +2,8 @@
 
 
 ## About me:
-- I Live in Brazil, MG 🌱🤠
-- Current studying React and Node at Rocketseat 🚀
+- Brazilian 🇧🇷
+- Working as developer by 5+ years
 
 <p>
   Connect with me:
