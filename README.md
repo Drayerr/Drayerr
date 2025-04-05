@@ -8,7 +8,7 @@
 <p>
   Connect with me:
   
-<a href="[https://www.linkedin.com/in/gabriel-gon%C3%A7alves-bb90281aa/](https://www.linkedin.com/in/gabrielgrv/)" target="_blank">
+<a href="https://www.linkedin.com/in/gabrielgrv/" target="_blank">
   <img align="center" alt="Gabriel's LinkedIn" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" style="max-width:100%;">
 </a>
 </p>
