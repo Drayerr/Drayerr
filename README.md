@@ -10,16 +10,13 @@ projects, including mobile and web, also responsable for monitoring, and metric 
 
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/gabrielgrv/)
 
----
-
-### 💼 Recent Experience:
+## 💼 Recent Experience:
 
 - **Frontend Engineer** at **WeFit Service Driven** (2022 - 2025)
   > 🚨 OBS: During this 2-year period, most of my version control work was conducted using a private/corporate account, which explains the pause in my public contributions on this profile.
 
----
 
-### 🏆 Key projects worked on:
+## 🏆 Key projects worked on:
 
 * 🏥 [Hapvida Mobile App](https://play.google.com/store/apps/details?id=br.com.hapvida.hapvida&hl=pt_BR)
   > One of Latin America's largest integrated healthcare and dental operators with a strong proprietary network.
@@ -27,9 +24,8 @@ Feel free to connect on [LinkedIn](https://www.linkedin.com/in/gabrielgrv/)
 * ✈️ [Azul Airlines Website](https://www.voeazul.com.br/home/br/pt/home)
   > Brazil's largest airline by departures and cities served, known for its extensive regional network.
 
----
 
-### 🛠️ My Skills and Technologies
+## 🛠️ My Skills and Technologies
 
 | Category | Technologies |
 | :--- | :--- |
