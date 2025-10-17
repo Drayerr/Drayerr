@@ -8,7 +8,7 @@
 I'm a brazilian developer with 6+ years of experience. Developed large applications (over 5 million downloads) and high-impact
 projects, including mobile and web, also responsable for monitoring, and metric gathering configuration.
 
-Feel free to connect on <a target="_blank" href="https://www.linkedin.com/in/gabrielgrv/" >LinkedIn</a>
+Feel free to connect on [LinkedIn](https://www.linkedin.com/in/gabrielgrv/)
 
 ---
 
@@ -21,10 +21,10 @@ Feel free to connect on <a target="_blank" href="https://www.linkedin.com/in/gab
 
 ### 🏆 Key projects worked on:
 
-* 🏥 <a target="_blank" href="https://play.google.com/store/apps/details?id=br.com.hapvida.hapvida&hl=pt_BR" > Hapvida Mobile App </a>
+* 🏥 [Hapvida Mobile App](https://play.google.com/store/apps/details?id=br.com.hapvida.hapvida&hl=pt_BR)
   > One of Latin America's largest integrated healthcare and dental operators with a strong proprietary network.
 
-* ✈️ <a target="_blank" href="https://www.voeazul.com.br/home/br/pt/home" > Azul Airlines Website </a>
+* ✈️ [Azul Airlines Website](https://www.voeazul.com.br/home/br/pt/home)
   > Brazil's largest airline by departures and cities served, known for its extensive regional network.
 
 ---
