@@ -5,8 +5,8 @@
 
 ### 🖥️ Frontend Engineer | Data Analysis Enthusiast
 
-I'm a brazilian developer with 6+ years of experience. Developed large applications (over 5 million downloads) and high-impact
-projects, including mobile and web, also responsable for monitoring, and metric gathering configuration.
+I'm a Brazilian developer with 6+ years of experience. Developed large applications (over 5 million downloads) and high-impact
+projects, including mobile and web, also responsible for monitoring, and metric gathering configuration.
 
 Feel free to connect on [LinkedIn](https://www.linkedin.com/in/gabrielgrv/)
 
